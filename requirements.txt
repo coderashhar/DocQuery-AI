@@ -9,12 +9,14 @@ langchain-core
 langchain-text-splitters
 langchain-huggingface
 
-
 # Chroma Vector Database
 chromadb
 
 # Embeddings
 sentence-transformers
+
+# Retrievers
+arxiv
 
 # Document Loaders
 pypdf
