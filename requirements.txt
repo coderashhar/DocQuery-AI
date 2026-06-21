@@ -50,3 +50,6 @@ pytesseract
 # Optional: Notebook Development
 jupyter
 ipykernel
+
+# UI Front-end
+streamlit
