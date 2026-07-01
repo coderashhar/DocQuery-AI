@@ -1,9 +1,8 @@
 # Core LLM
-mistralai
+langchain-mistralai
 
 # LangChain
 langchain
-langchain-mistralai
 langchain-community
 langchain-core
 langchain-text-splitters
@@ -15,41 +14,11 @@ chromadb
 # Embeddings
 sentence-transformers
 
-# Retrievers
-arxiv
-
 # Document Loaders
 pypdf
-python-docx
-unstructured
-
-# Data Processing
-numpy
-pandas
 
 # Environment Variables
 python-dotenv
-
-# API Backend
-fastapi
-uvicorn
-
-# Utilities
-tqdm
-
-# Tokenization
-tiktoken
-
-# HTTP Requests
-requests
-
-# Optional: PDF OCR Support
-pdf2image
-pytesseract
-
-# Optional: Notebook Development
-jupyter
-ipykernel
 
 # UI Front-end
 streamlit
