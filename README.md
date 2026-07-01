@@ -8,7 +8,8 @@ Built with **Streamlit**, **LangChain**, **Chroma DB**, **HuggingFace**, and **M
 
 ## 📸 Interface Preview
 
-![DocQuery AI Interface](Screenshot.png)
+![DocQuery AI Interface](screenshot.png)
+![DocQuery AI Interface](screenshot2.png)
 
 ---
 
